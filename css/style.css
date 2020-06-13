@@ -1,0 +1,93 @@
+.test-border {
+  border: 2px solid	rgb(8, 209, 35);
+}
+
+.navbar-transparent {
+  background-color: rgba(0, 0, 0, 0.555);
+}
+
+.navbar-transparent .navbar-nav .nav-link:hover {
+  color: rgb(9, 226, 38);
+}
+
+.navbar-transparent .navbar-brand {
+  color: rgba(221, 134, 134, 0.966);
+  font-size: 22px;
+}
+
+.navbar-transparent .navbar-nav .nav-link {
+  color: rgba(221, 134, 134, 0.966);
+  font-size: 18px;
+}
+
+.navbar-transparent .navbar-brand:hover,
+.navbar-transparent .navbar-brand:focus {
+  color: rgb(9, 226, 38);
+}
+
+.navbar-transparent .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+.carousel-inner > .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 500px;
+}
+
+.div-helpers{
+  margin: 5px;
+  padding: 5px;
+}
+
+.btn-readmore{
+  margin:auto;
+  display:block;
+}
+
+.card-bg{
+  background-color: rgba(9, 175, 226, 0.151);
+}
+
+a{
+  color: blanchedalmond;
+}
+.footer-skinny{
+  background-color: rgb(50, 53, 59);
+  height: 115px;
+}
+.copyright{
+  padding-top: 5px;
+  color: aliceblue;
+}
+.div-ourhelps{
+  background-color:  rgba(11, 196, 39, 0.11);
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+
+.site-info .menu li{
+	display:inline-block;
+}
+.menu-centered>.menu{
+	text-align:center;
+}
+.menu-centered>.menu .submenu li{
+	text-align:left;
+}
+
+.social-links{
+	font-size:1.5625rem;
+	height: 20px;
+  	color: rgb(6, 199, 32);
+  	text-align: center;
+  	size: large;
+}
+
+.fa{
+	color: rgb(6, 199, 32);
+	margin: 6px;
+}
